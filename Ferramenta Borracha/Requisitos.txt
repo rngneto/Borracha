@@ -1,0 +1,8 @@
+Compilador:
+- Falcon C++
+https://sourceforge.net/projects/falconcpp/
+
+Pacotes:
+- glut 3.7.fpk
+- OpenGL_Doc 1.0.fpk
+https://sourceforge.net/projects/falconcpp/files/Packages/Video/OpenGL/
